@@ -5,7 +5,6 @@ const Browse = () => {
   return (
     <div className='flex'>
       <Header/>
-      
     </div>
   )
 }
